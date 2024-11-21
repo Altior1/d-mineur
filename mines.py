@@ -16,5 +16,5 @@ class Flag:
         La méthode getPos permet de récupérer un tupple avec la position en X et en Y    
     """
     def __init__(self,posX,posY):
-        self._x = x
-        self._y = y
+        self._x = posX
+        self._y = posY
